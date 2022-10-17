@@ -9,7 +9,7 @@ causes errors.
 Here’s how to use single and double quotes correctly. Save this program
 as apostrophe.py and then run it:
 """
-message = "One of Python's strengths is its deverse community"
+message = "One of Python's strengths is its diverse community"
 print(message)
 
 

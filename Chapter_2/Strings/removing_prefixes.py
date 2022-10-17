@@ -1,5 +1,5 @@
 """when working with strings, another common task is to remove a prefix. 
-Considera URL with the common prefix https://. We wante to remove this prefix, so we can 
+Considers URL with the common prefix https://. We wanted to remove this prefix, so we can 
 focus on just the part of the URL that users need to enter into an address bar
 """
 nostarch_url = 'https://nostarch.com'
