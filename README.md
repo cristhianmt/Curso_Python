@@ -5,4 +5,4 @@
 </p>
 
 + 🐍 El curso esta basado en el libro [Python Crash Course, 3nd Edition](https://nostarch.com/python-crash-course-3rd-edition)
-+ En este curso aprendi los conceptos basico de python, junto con ejercicios realizados. 
++ 🤖 En este curso se realizan ejercicios en programación en Python. 
