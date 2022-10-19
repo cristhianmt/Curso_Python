@@ -5,10 +5,9 @@ to print a series of statements about these items, such as “I would like to ow
 Honda motorcycle.”
 """
 
-transport = ['car', 'private airplane', 'skate','bus','subway']
+transport = ['car', 'private airplane', 'skate', 'bus', 'subway']
 
 print(f"I would like to own a {transport[0]}")
 print(f"I would like to fly in a {transport[1]}")
 print(f"I would like to learn {transport[2]}")
 print(f"I would like to drive a {transport[3]} and {transport[4]}")
-

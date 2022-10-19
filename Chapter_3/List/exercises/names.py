@@ -3,5 +3,5 @@
 each person’s name by accessing each element in the list, one at a time.
 """
 
-name_friends = ['bob','alice','tom','kelly']
+name_friends = ['bob', 'alice', 'tom', 'kelly']
 print(name_friends)

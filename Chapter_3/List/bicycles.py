@@ -5,5 +5,5 @@ all the people in your family
 a list usually contains more than one element, it’s a good idea to make the
 name of your list plural, such as letters, digits, or names.
 """
-bicycles = ['trek', 'cannondale', 'redline', 'specialized' ]
+bicycles = ['trek', 'cannondale', 'redline', 'specialized']
 print(bicycles)

@@ -5,7 +5,7 @@ should be the same, but each message should be personalized with the
 person’s name.
 """
 
-name_friends = ['bob','alice','tom','kelly']
+name_friends = ['bob', 'alice', 'tom', 'kelly']
 print(f"Hi my name is {name_friends[0]}")
 print(f"Hi my name is {name_friends[1]}")
 print(f"Hi my name is {name_friends[2]}")
