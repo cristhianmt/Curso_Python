@@ -26,6 +26,9 @@ print(f"Sorry {remove_people_1} i can't invite you to dinner\n")
 remove_people_2 = guest_list.pop(0)
 print(f"Sorry {remove_people_2} i can't invite you to dinner\n")
 
+print(f"Please {guest_list[0]} come to dinner.")
+print(f"Please {guest_list[1]} come to dinner.")
+
 del guest_list[:]
 print(f"I have an empty list ")
 print(f"{guest_list}")
