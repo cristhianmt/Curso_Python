@@ -5,9 +5,9 @@ Reykjavik is in Iceland. Give the parameter for the country a default value.
 Call your function for three different cities, at least one of which is not in the
 default country.
 """
-def describe_city(city, country='toronto'):
+def describe_city(city, country='canada'):
     print(f"{city.title()} is in {country.title()}.")
 
-describe_city('canada')
+describe_city('toronto')
 describe_city('sidney', 'australia')
-describe_city('pekin', 'china')
+describe_city('montreal')
